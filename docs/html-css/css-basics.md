@@ -3,17 +3,6 @@ sidebar_position: 2
 ---
 # CSS Basics 
 
----
-## Content
-
-* CSS Rules
-* Linking CSS 
-* CSS Reset 
-* CSS Media Types|
-* CSS Selectors 
-* Units 
-
----
 ## CSS
 **Cascading Style Sheet**
 

@@ -3,22 +3,11 @@ sidebar_position: 1
 ---
 # HTML Basics
 
-:::danger[Code Editor]
+:::info[Code Editor]
 If you don't have one, **PLEASE** download a code editor
 I will be working with `vscode` which can be found here: https://code.visualstudio.com/download 
 :::
 
-
----
-## Content
-
-* Languages 
-* Static Website 
-* Syntax, Boilerplate 
-* Tags Exercise
-* Source Code 
-
----
 
 ## Mark-up Language vs. Programming Language
 

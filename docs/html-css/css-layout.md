@@ -3,13 +3,6 @@ sidebar_position: 3
 ---
 # Layout Basics
 
-## Content
-
-* Color codes
-* Inline and Block Elements
-* Float
-* Flex
-
 ## Color Codes
 
 In CSS (Cascading Style Sheets), colors can be applied to HTML elements using different color representation formats.
